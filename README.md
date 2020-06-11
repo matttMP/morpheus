@@ -1,3 +1,3 @@
 # morpheus
 
-Hosting for the Morpheus script hub.
+File hosting for the Morpheus script hub made for ROBLOX.
