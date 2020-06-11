@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/morpheus/master/morpheus.txt'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/matttMP/morpheus/master/morpheus_source.txt'),true))()
